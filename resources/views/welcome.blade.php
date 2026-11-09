@@ -25,7 +25,15 @@
 <p>i think we all agree that at least my app is live in prod peeps 😁</p>
 
 <p>thanks very much to those who believed in my journey to microsoft engineering palls </p>
+<p>i build my apps best with LARAVEL ,FLUTTER AND GOLANG BACKEND with continuous deployment </p>
 
-
+<style>
+h1 {
+	color:blue;
+}
+body {
+	background-color:gold;
+}
+</style>
  </body>
 </html>
